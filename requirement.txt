@@ -1,0 +1,12 @@
+spacy
+pandas
+seaborn
+numpy
+matplotlib
+nltk
+scikit-learn
+umap-learn
+yellowbrick
+gensim
+kneed
+pyLDAvis
